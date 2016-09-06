@@ -5,7 +5,7 @@ public class Project {
 	String productName;
 	String version;
 
-
+}
 public class Employee{
 
 String staffID;
@@ -40,12 +40,10 @@ String releaseDescription;
 }
 
 public class Report{
-
 	String reportId;
 	String reportName;
-Sprint sprint;
 	String description;
 	
 
 }
-}
+
